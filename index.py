@@ -1,1 +1,1 @@
-sdasd
+print('hi')
